@@ -1,2 +1,4 @@
-# odinlandingpage
-The Odin Project Landing Page // Tutorial
+# Odin Lading Page
+The Odin Project Landing Page
+
+
